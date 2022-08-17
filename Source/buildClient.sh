@@ -1,0 +1,1 @@
+g++ client/source/selector.cpp client/source/client.cpp client/source/menu.cpp client/source/appFunctions.cpp shared/source/user.cpp shared/source/command.cpp shared/source/response.cpp shared/source/post.cpp shared/source/base64.cpp client/main.cpp -lssl -lcrypto -o ClientApp 

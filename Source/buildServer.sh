@@ -1,0 +1,1 @@
+g++ server/source/server.cpp server/source/appFunctions.cpp server/source/databaseManager.cpp shared/source/user.cpp shared/source/command.cpp shared/source/response.cpp shared/source/post.cpp shared/source/base64.cpp server/main.cpp -l sqlite3 -lssl -lcrypto -o ServerApp
